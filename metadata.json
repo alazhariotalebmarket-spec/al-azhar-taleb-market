@@ -1,0 +1,6 @@
+{
+  "name": "আল আজহার ইসলামী সংস্থা",
+  "description": "আল আজহার ইসলামী সংস্থা - সদস্য, উপদেষ্টা, আয়-ব্যয় পরিচালনা ও Google Drive অটো ব্যাকআপ সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
